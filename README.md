@@ -1,4 +1,4 @@
-# Automatic Driving 
+# Autonomous Driving 
 
 ### 자율주행 자동차 기술 이해 (공통)
  - 자율주행 기술 5단계
